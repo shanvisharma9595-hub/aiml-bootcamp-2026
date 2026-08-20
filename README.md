@@ -1,21 +1,62 @@
-# AIML Bootcamp 2026
+# GLA Summer Bootcamp 2026 - Machine Learning
 
-## Student Performance Visualization
+This repository contains my projects completed during the bootcamp.
 
-This project focuses on analyzing and visualizing student performance data using Python and Matplotlib.
+# Tools Used
 
-## Technologies Used
 - Python
-- Jupyter Notebook
-- Pandas
+- Google Colab
 - NumPy
+- Pandas
 - Matplotlib
+- GitHub
 
-## Features
-- Data analysis of student performance
+# Notebooks Included
+
+# 1. Student Performance Analysis
+
+Topics covered:
+- DataFrames
+- How to access data
+- Feature creation
+- Rule-based filtering
+- Data analysis
 - Data visualization using Matplotlib
-- Graphical representation of insights
-- Performance observations
 
-## File Included
-- Student_Performance_Visualization.ipynb
+Features created:
+- Total Score
+- Eligible Students
+- Need Improvement
+- Score Gap
+- Top Batch
+
+# 2. Python Basics
+
+Topics covered:
+- Variables
+- Lists
+- Dictionaries
+- Loops
+- Conditional Statements
+
+Practiced on student records and simple Python problems.
+
+# 3. NumPy Basics and Data Analysis
+
+Topics covered:
+- NumPy Arrays
+- Array Operations
+- Basic Analysis
+
+Worked with datasets and performed numerical computations using NumPy.
+
+# 4. Data Analysis and Matplotlib Basics
+
+Topics covered:
+- Data Cleaning
+- Basic data analysis
+- Column Renaming
+- Missing Value Handling
+- Duplicate rows detection 
+- GroupBy operations
+- Data Visualization using Matplotlib
